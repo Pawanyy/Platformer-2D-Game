@@ -4,7 +4,7 @@ Follow these steps to play the platformer game developed with Unity on your Wind
 
 ## 1. Download the PlatformerBuild Windows Zip File
 
-- **Link to download**: [Download the Platformer Game](https://github.com/Pawanyy/Platformer-2D-Game/releases/download/1.0.0/PlatformerBuild.Windows.zip)  
+- **Link to download**: [Download the Platformer Game](https://github.com/Pawanyy/Platformer-2D-Game/releases/download/1.0.0/PlatformerBuild.Windows.zip)
 - Click the link above to download the `PlatformerBuild_Windows.zip` file.
 
 ## 2. Extract the Zip File in Windows
@@ -22,3 +22,15 @@ Follow these steps to play the platformer game developed with Unity on your Wind
 ## 4. Enjoy
 
 - The game should now start running. Enjoy playing the platformer game!
+
+## Additional Resources
+
+### Research and Case Study Documents
+
+- **Game Project Presentation:**  
+  [Download Game Project ppt full.pptx](https://github.com/Pawanyy/Platformer-2D-Game/raw/master/Game%20Project%20ppt%20full.pptx)
+
+- **Research Black Book by Pawan Yadav:**  
+  [Download Black Book by Pawan Yadav full.pdf](https://github.com/Pawanyy/Platformer-2D-Game/raw/master/Black%20Book%20by%20Pawan%20Yadav%20full.pdf)
+
+These documents provide in-depth research, case studies, and presentations related to the development and design of the platformer game.
